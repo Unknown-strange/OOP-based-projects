@@ -59,16 +59,16 @@ Each folder or Python file represents a **problem set or project**. The challeng
 * Problem-solving mindset in OOP
 
 
-OOP-ChatGPT-Learning/
-│
-├── Level_1/
-│ ├── student_management_sys.py
-│ 
-│
-├── Level_2/
-│ └── bank_account.py
-│
-└── README.md (this file)
+## OOP-ChatGPT-Learning/
+*│
+*├── Level_1/
+*│ ├── student_management_sys.py
+*│ 
+*│
+*├── Level_2/
+*│ └── bank_account_sys.py
+*│
+*└── README.md (this file)
 
 
 ---
