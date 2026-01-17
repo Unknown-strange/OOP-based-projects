@@ -61,11 +61,11 @@ Each folder or Python file represents a **problem set or project**. The challeng
 
 OOP-ChatGPT-Learning/
 │
-├── Level_1_Student_Management/
-│ ├── student.py
-│ └── README.md
+├── Level_1/
+│ ├── student_management_sys.py
+│ 
 │
-├── Level_2_Bank_Account/
+├── Level_2/
 │ └── bank_account.py
 │
 └── README.md (this file)
